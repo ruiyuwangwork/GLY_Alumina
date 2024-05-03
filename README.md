@@ -2,7 +2,7 @@
 
 [//]: <> (figs)
 
-<img src="aa.jpg" width=50% height=50%>
+<img src="aa.jpg" width=30% height=30%>
 
 
 
