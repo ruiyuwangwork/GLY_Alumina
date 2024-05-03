@@ -2,7 +2,8 @@
 
 [//]: <> (figs)
 
-![aa](aa.jpg)
+<img src="aa.jpg" width=50% height=50%>
+
 
 
 The zip file contains essential files to run metadynamics simulations of Glycine adsorption on the alumina/water interfaces.
