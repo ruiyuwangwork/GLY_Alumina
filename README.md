@@ -10,7 +10,8 @@ The zip file contains essential files to run metadynamics simulations of Glycine
 
 Software: GROMACS-2016.3, PLUMED-2.3.2
 
-### Paper info
+
+#### To read the paper, please visit:
 Preprint: []()
 
 Publication: []()
