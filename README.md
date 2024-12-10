@@ -6,7 +6,7 @@
 
 
 
-<video src="GLY_Alumina.mp4" width=180/>
+[<video src="GLY_Alumina.mp4" width=180/>](https://github.com/ruiyuwangwork/GLY_Alumina/blob/main/GLY_Alumina.mp4)
 
 
 
