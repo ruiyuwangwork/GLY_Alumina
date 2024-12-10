@@ -6,7 +6,7 @@
 
 
 
-<video src="GLY_Alumina.mp4"></video>
+<video src="GLY_Alumina.mp4" width=180/>
 
 
 
